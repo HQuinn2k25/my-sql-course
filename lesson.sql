@@ -60,7 +60,7 @@ FROM PatientStay P Right JOIN DimHospitalBad h ON p.Hospital = h.Hospital
 --select DATEADD(WEEK, 3, '2025-11-06')
 
 
-
+--
 
 
 
